@@ -1,4 +1,3 @@
-
 public class BubbleSort implements SortingAlgorithm{
     @Override
     public int[] sorty(int[] input){

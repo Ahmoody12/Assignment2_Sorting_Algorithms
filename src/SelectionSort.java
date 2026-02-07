@@ -17,3 +17,4 @@ public class SelectionSort implements SortingAlgorithm{
         return array;
     }
 }
+
